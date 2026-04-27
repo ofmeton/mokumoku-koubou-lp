@@ -81,7 +81,7 @@ function ContactSection(){
             }}>
               <div style={{fontFamily:"Zen Maru Gothic, serif",fontWeight:700,color:"var(--green-2)",marginBottom:8,fontSize:14}}>📍 ショールーム / 本社</div>
               〒999-0000<br/>
-              ◯◯県◯◯市もくもく町1-2-3<br/>
+              ◯◯県◯◯市みどり町1-2-3<br/>
               ◯◯駅から車で5分・無料駐車場あり
             </div>
           </div>

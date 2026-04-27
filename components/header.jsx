@@ -24,9 +24,9 @@ function Header({onMenuToggle, menuOpen}){
     <header className={`site-header ${scrolled?'scrolled':''}`}>
       <div className="header-inner">
         <a href="#top" className="logo">
-          <img src="assets/logo/01.png" className="logo-img" alt="もくもく工房"/>
+          <img src="assets/logo/01.png" className="logo-img" alt="みどり工務店"/>
           <div className="logo-text">
-            <div className="lt-1">もくもく工房</div>
+            <div className="lt-1">みどり工務店</div>
             <div className="lt-2">自然素材の家づくり</div>
           </div>
         </a>

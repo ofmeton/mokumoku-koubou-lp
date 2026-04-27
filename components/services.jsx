@@ -10,7 +10,7 @@ function FeaturesSection(){
       <div className="container">
         <SectionHead
           label="OUR FEATURES"
-          title='もくもく工房の<span class="accent">4つのこだわり</span>'
+          title='みどり工務店の<span class="accent">4つのこだわり</span>'
           lead="自然素材、性能、土地、お金。家づくりで大切な4つのことを、私たちは妥協しません。"
         />
         <div className="feature-grid">
@@ -46,7 +46,7 @@ function NumbersOfTrust(){
         textAlign:"center",
         marginBottom:24,
       }}>
-        <span className="pill pill-green" style={{fontSize:13}}>数字でみる、もくもく工房</span>
+        <span className="pill pill-green" style={{fontSize:13}}>数字でみる、みどり工務店</span>
       </div>
       <div style={{
         display:"grid",

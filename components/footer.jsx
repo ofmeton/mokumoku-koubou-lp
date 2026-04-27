@@ -12,7 +12,7 @@ function Footer(){
             <a href="#top" className="logo" style={{marginBottom:16}}>
               <img src="assets/logo/01.png" className="logo-img" alt=""/>
               <div className="logo-text">
-                <div className="lt-1">もくもく工房</div>
+                <div className="lt-1">みどり工務店</div>
                 <div className="lt-2">自然素材の家づくり</div>
               </div>
             </a>
@@ -64,13 +64,13 @@ function Footer(){
               <div className="hours">受付 9:00〜18:00（水曜定休）</div>
             </div>
             <div style={{marginTop:12,fontSize:12,color:"var(--ink-2)",lineHeight:1.8}}>
-              〒999-0000<br/>◯◯県◯◯市もくもく町1-2-3
+              〒999-0000<br/>◯◯県◯◯市みどり町1-2-3
             </div>
           </div>
         </div>
 
         <div className="footer-bottom">
-          <div>© 2025 もくもく工房. All rights reserved.</div>
+          <div>© 2025 みどり工務店. All rights reserved.</div>
           <div className="legal">
             <a href="#">プライバシーポリシー</a>
             <a href="#">特定商取引法</a>
