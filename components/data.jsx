@@ -8,7 +8,7 @@ const SERVICES = [
     desc: "土地探しから資金計画、間取りのご提案まで。\nご家族のこれからを、ひとつずつ一緒に考えていく家づくりです。",
     feats: ["土地探しからOK", "自然素材", "耐震・断熱", "長期保証"],
     icon: "assets/icons/02.png",
-    photo: "assets/services/order-house.png",
+    photo: "assets/services/order-house.webp",
   },
   {
     num: "02",
@@ -17,7 +17,7 @@ const SERVICES = [
     desc: "今ある住まいに、新しい時間を。\n部分リフォームから全面リノベまで、暮らしに寄り添ってご提案します。",
     feats: ["小さな工事もOK", "無垢材リノベ", "水まわり", "断熱改修"],
     icon: "assets/icons/05.png",
-    photo: "assets/services/renovation.png",
+    photo: "assets/services/renovation.webp",
   },
   {
     num: "03",
@@ -26,7 +26,7 @@ const SERVICES = [
     desc: "「まだ土地もないし、予算もこれから…」\nそんな段階のご相談こそ、いちばん大切。気兼ねなくお話しください。",
     feats: ["無料相談", "ローン相談", "土地情報", "中立アドバイス"],
     icon: "assets/icons/03.png",
-    photo: "assets/services/land-money.png",
+    photo: "assets/services/land-money.webp",
   },
 ];
 
